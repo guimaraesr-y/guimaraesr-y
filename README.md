@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ryan Guimarães</h1>  
+<h1 align="center">Hi 👋, I'm Ryan Guimarães</h1>
 <h3 align="center">A full-stack web developer and pentesting beginner :)</h3>  
-  
+
+![Ryan Guimarães](https://user-images.githubusercontent.com/63627608/213935443-93f7375f-aefa-4ec9-b96f-34b4c310da5e.jpg)
+
 <p align="center"> 
   <a href="https://twitter.com/guimaraesr_y" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="guimaraesr_y" /></a>
   <a href="https://instagram.com/guimaraesr.y" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="guimaraesr_y" /></a> 
